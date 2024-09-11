@@ -16,17 +16,16 @@ function App() {
         Fermenting
       </p>
       <p className="text-sm mb-10">Coming Winter 2024</p>
-      <div className="pt-5 border-t-2 border-pink border-ffLightPurple">
+      <div className="pt-10 border-t-2 border-pink border-ffLightPurple">
         <a
           href="https://peachtycoon.com/"
           target="_blank"
           className="text-ffLightPurple hover:text-ffPurple"
         >
-          <div className="flex flex-row items-start gap-2">
-            <p>a</p>
+          <div className="flex flex-row items-start justify-center gap-2 text-sm">
+            <p className="leading-7">another digi-edible by</p>
 
-            <img src={PeachLogo} width="18px" />
-            <p>project</p>
+            <img src={PeachLogo} width="20px" />
           </div>
         </a>
       </div>

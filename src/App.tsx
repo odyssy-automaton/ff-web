@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="flex flex-col justify-center items-center text-ffTan">
       <img src={FfLogo} width="200px" />
-      <h1 className="font-sans text-8xl uppercase">Forgotton</h1>
+      <h1 className="font-sans text-8xl uppercase">Forgotten</h1>
       <h1 className="font-sans text-8xl mb-8 uppercase">Fruit</h1>
 
       <p className="text-2xl mb-2 pt-5 border-t-2 border-pink border-ffLightPurple">

@@ -15,7 +15,7 @@ function App() {
       <p className="text-2xl mb-2 pt-5 border-t-2 border-pink border-ffLightPurple">
         Fermenting
       </p>
-      <p className="text-sm mb-10">Coming Winter 2024</p>
+      <p className="text-sm mb-10">Coming Spring 2025</p>
       <div className="pt-10 border-t-2 border-pink border-ffLightPurple">
         <a
           href="https://peachtycoon.com/"
